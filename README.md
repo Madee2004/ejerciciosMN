@@ -53,8 +53,8 @@ La interfaz contiene:
 ## 📂 Archivos del repositorio
 
 ```text
-📁 proyecto-metodos/
+📁 ejerciciosMN/
+├── huenYRK4.py             # Código en python para resolver los ejercicios
 ├── index.html              # Página principal
 ├── mainnn.js               # Lógica de métodos y visualización
-├── README.md               # Este archivo
-└── /img/                   # Carpeta opcional para imágenes
+└── README.md               # Este archivo
