@@ -1,4 +1,4 @@
-# ejerciciosMN
+# Ejercicios de comparación de Métodos Numéricos
 Este proyecto resuelve tres problemas de ecuaciones diferenciales ordinarias (EDOs) utilizando dos métodos numéricos: **Heun (RK2)** y **Runge-Kutta de 4to orden (RK4)**. Se desarrolló una página web interactiva para visualizar los resultados, con tablas comparativas, gráficos y conclusiones.
 
 ---
